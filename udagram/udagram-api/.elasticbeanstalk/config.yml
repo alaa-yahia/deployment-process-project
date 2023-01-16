@@ -3,7 +3,7 @@ branch-defaults:
     environment: udagram-api-dev
     group_suffix: null
 deploy:
-  artifact: www/Archive.zip
+  artifact: Archive.zip
 global:
   application_name: udagram-api
   branch: null
@@ -14,7 +14,7 @@ global:
   instance_profile: null
   platform_name: null
   platform_version: null
-  profile: default
+  profile: eb-cli
   repository: null
   sc: null
   workspace_type: Application

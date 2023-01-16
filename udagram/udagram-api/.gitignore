@@ -20,6 +20,7 @@ npm-debug.log*
 .versions/
 coverage/
 www/
+Archive.zip
 node_modules/
 tmp/
 temp/
